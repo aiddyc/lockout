@@ -1,6 +1,6 @@
 # Privacy Policy — Lockout
 
-**Last updated:** [DATE]
+**Last updated:** [8/8/26]
 
 Lockout is designed with privacy at its core. In plain terms: **nothing you do in Lockout ever leaves your phone.**
 
@@ -33,4 +33,4 @@ Lockout is a general-purpose security tool and is not directed at children.
 
 ## Contact
 
-If you have any questions about this policy, contact us at **[YOUR EMAIL]**.
+If you have any questions about this policy, contact us at **[lockoutbytagr@gmail.com]**.
