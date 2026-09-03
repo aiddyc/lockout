@@ -2,7 +2,7 @@
 
 **Your phone locks itself the moment it leaves your side.**
 
-Lockout is an Android app that pairs with the Bluetooth tag included in your kit. If your phone is ever snatched or left behind, it locks automatically within about two seconds of losing range — before anyone can use it.
+Lockout is an Android app that pairs with the Bluetooth tag included in your kit. If your phone is ever snatched or left behind, it locks automatically within seconds of losing range — before anyone can use it.
 
 ---
 
